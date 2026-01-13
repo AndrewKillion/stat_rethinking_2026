@@ -8,3 +8,7 @@ pandas
 scipy
 matplotlib
 arviz
+jaxlib
+jax
+numpyro
+patsy
