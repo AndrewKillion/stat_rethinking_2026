@@ -12,3 +12,5 @@ jaxlib
 jax
 numpyro
 patsy
+pydot
+causalgraphicalmodels
